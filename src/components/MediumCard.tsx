@@ -1,5 +1,5 @@
 import React from 'react'
-import { exploreData, mediumData } from '@/constants'
+import { mediumData } from '@/constants'
 import Image from 'next/image'
 
 export default function MediumCard() {
